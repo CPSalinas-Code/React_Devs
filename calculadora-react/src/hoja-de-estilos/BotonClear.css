@@ -1,0 +1,16 @@
+.contenedor-botonclear {
+    width: 400px;
+    height: 80px;
+    border-radius: 155px;
+    border: 1px solid #1b1b32;
+    background-color: darkred;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: white;
+    padding-right: 30px;
+}
+.contenedor-botonclear:hover {
+    background-color: orangered;
+}
